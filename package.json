@@ -26,6 +26,6 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.13.0",
         "admin-lte": "^3.0.4",
-        "node-sass": "^4.13.1"
+        "node-sass": "^7.0.0"
     }
 }
